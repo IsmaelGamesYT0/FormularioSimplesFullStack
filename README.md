@@ -1,8 +1,8 @@
 <h1 align="center">Formulário Simples - Projeto FullStack ☕</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/IsmaelGamesYT0/formulariosimples?style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-size/IsmaelGamesYT0/formulariosimples?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/IsmaelGamesYT0/FormularioSimplesFullStack?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/IsmaelGamesYT0/FormularioSimplesFullStack?style=for-the-badge" />
 </p>
 
 ---
