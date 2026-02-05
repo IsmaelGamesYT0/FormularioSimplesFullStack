@@ -26,14 +26,36 @@ Este projeto envia dados de um formulário no navegador para uma API em Java, qu
 - Validações básicas.
 - Resposta do servidor exibida no front.
 - Estrutura limpa e fácil de evoluir.
-
 ---
 
 ## 🧰 Stack
-**Front-end:** HTML, CSS, JavaScript  
-**Back-end:** Java, Spring Boot
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌐 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" />
+      <br><br>
+      <sub><b>UI + estrutura + interatividade</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🖥️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=java,spring&perline=2" />
+      <br><br>
+      <sub><b>API, serviços e regra de negócio</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🧠 Fundamentals</h3>
+      <img src="https://skillicons.dev/icons?i=c&perline=1" />
+      <br><br>
+      <sub><b>Lógica, memória, mindset, problem solving</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
+
+
 
 📁 cadastro-fullstack/
 ├── Frontend/
