@@ -1,5 +1,8 @@
 <h1 align="center">Formulário Simples - Projeto Full Stack ☕</h1>
 
+<h3 align="center">
+🚧Status: Em desenvolvimento (fase inicial)
+</h3>
 <p align="center">
   Formulário web simples com Front-end em HTML/CSS/JS e Back-end em Java (Spring Boot).<br>
   Feito para praticar integração Front ↔ API, validação e organização de projeto.
